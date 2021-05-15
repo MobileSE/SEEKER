@@ -14,8 +14,8 @@ The following is required to set up Native2Java:
 * cd SensorLeakDetector
 
 ##### Step 2: build package：
-./res/loadDependencies.sh
-mvn clean install
+* ./res/loadDependencies.sh
+* mvn clean install
 
 ##### Step 3: example of running SensorLeakDetector(2 parameters):
 * Parameters are needed here: [your_apk_path.apk],[path of android platform]
