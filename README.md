@@ -10,8 +10,8 @@ The following is required to set up Native2Java:
 * Java SDK : 1.8
 
 ##### Step 1: Load repo
-* git clone https://se_anonymous@bitbucket.org/se_anonymous/seeker.git
-* cd SensorLeakDetector
+* git clone git@github.com:MobileSE/SEEKER.git
+* cd SEEKER
 
 ##### Step 2: build package：
 * ./res/loadDependencies.sh
